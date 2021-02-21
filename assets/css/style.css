@@ -180,7 +180,7 @@ section {
 }
 
 .trainers {
-  text-align:center;
+  text-align: center;
 }
 
 .trainer {
@@ -188,7 +188,7 @@ section {
   margin: 0 auto 30px auto;
   background: #024e76;
   color: #fce138;
-  overflow:auto;
+  overflow: auto;
 }
 
 .trainer img {
