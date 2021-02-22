@@ -225,3 +225,16 @@ section {
 .text-right {
   text-align: right;
 }
+/* Reach out Styles Start*/
+.contact {
+  text-align: center;
+  background: #024e76;
+}
+.contact h2 {
+  color: #fce138;
+}
+
+.contact-info iframe {
+  width: 400px;
+  height:400px;
+}
